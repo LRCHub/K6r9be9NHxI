@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "picco - your princess feat.りむる [Vocaloid Electro]",
+  "base_artist": "picco",
+  "createdAt": "2026-03-27T14:51:19.118200Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A picco",
+      "artist": "Talco",
+      "has_synced": true,
+      "path": "select/01_A_picco_Talco.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A picco",
+      "artist": "See Maw",
+      "has_synced": false,
+      "path": "select/02_A_picco_See_Maw.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "4 Am - Picco Edit",
+      "artist": "Scooter",
+      "has_synced": false,
+      "path": "select/03_4_Am_-_Picco_Edit_Scooter.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "4 AM (Picco Edit)",
+      "artist": "Scooter",
+      "has_synced": false,
+      "path": "select/04_4_AM_(Picco_Edit)_Scooter.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "teardrop (Prod. picco)",
+      "artist": "電音部, Picco & 桜乃美々兎 (CV: 小坂井祐莉絵)",
+      "has_synced": true,
+      "path": "select/05_teardrop_(Prod._picco)_電音部,_Picco_&_桜乃美々兎_(CV__小坂井祐莉絵).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "teardrop (Prod. picco)[Instrumental]",
+      "artist": "電音部, Picco & 桜乃美々兎 (CV: 小坂井祐莉絵)",
+      "has_synced": true,
+      "path": "select/06_teardrop_(Prod._picco)[Instrumental]_電音部,_Picco_&_桜乃美々兎_(CV__小坂井祐莉絵).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "恋々 (feat. Picco)",
+      "artist": "Ayiko",
+      "has_synced": false,
+      "path": "select/07_恋々_(feat._Picco)_Ayiko.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The 89ers Boy (Picco vs. Jens O. Jumper Remix)",
+      "artist": "89ers",
+      "has_synced": false,
+      "path": "select/08_The_89ers_Boy_(Picco_vs._Jens_O._Jumper_Remix)_89ers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "How Do You Do (Picco vs. Jens o radio edit)",
+      "artist": "Party Animals",
+      "has_synced": false,
+      "path": "select/09_How_Do_You_Do_(Picco_vs._Jens_o_radio_edit)_Party_Animals.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "How Do You Do (DJ Picco & Jens O. edit)",
+      "artist": "Party Animals",
+      "has_synced": true,
+      "path": "select/10_How_Do_You_Do_(DJ_Picco_&_Jens_O._edit)_Party_Animals.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Oops Sorry (Picco remix edit)",
+      "artist": "Fragma",
+      "has_synced": false,
+      "path": "select/11_Oops_Sorry_(Picco_remix_edit)_Fragma.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Oops Sorry (Picco remix)",
+      "artist": "Fragma",
+      "has_synced": false,
+      "path": "select/12_Oops_Sorry_(Picco_remix)_Fragma.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Turn Me On (Picco remix)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/13_Turn_Me_On_(Picco_remix)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Happy Together (Picco vs. Jens O. Jumper remix edit)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/14_Happy_Together_(Picco_vs._Jens_O._Jumper_remix_edit)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Schneekönigin Die Eisfee (Duettversion mit Picco)",
+      "artist": "Infernosounds",
+      "has_synced": false,
+      "path": "select/15_Schneekönigin_Die_Eisfee_(Duettversion_mit_Picco)_Infernosounds.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The 89ers Boy (Picco vs Jens O. Jumper Radio Edit)",
+      "artist": "89ers",
+      "has_synced": false,
+      "path": "select/16_The_89ers_Boy_(Picco_vs_Jens_O._Jumper_Radio_Edit)_89ers.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Need A Hero (Picco vs. Jens O. Jumper RMX Edit)",
+      "artist": "Andrew Spencer meets Blue Nature",
+      "has_synced": false,
+      "path": "select/17_I_Need_A_Hero_(Picco_vs._Jens_O._Jumper_RMX_Edit)_Andrew_Spencer_meets_Blue_Nature.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "4 AM (Picco Remix)",
+      "artist": "Scooter",
+      "has_synced": false,
+      "path": "select/18_4_AM_(Picco_Remix)_Scooter.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Every Single Day (Picco Remix Edit)",
+      "artist": "Sample Rippers",
+      "has_synced": false,
+      "path": "select/19_Every_Single_Day_(Picco_Remix_Edit)_Sample_Rippers.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Sei kein Frosch (Picco Elektro edit)",
+      "artist": "Alexander Marcus",
+      "has_synced": false,
+      "path": "select/20_Sei_kein_Frosch_(Picco_Elektro_edit)_Alexander_Marcus.txt"
+    }
+  ]
+}
